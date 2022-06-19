@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Tune-Data/images/header.png" alt="header"/>
+  <img src="https://github.com/Tune-Data/Tune-Data/images/header.png" alt="header"/>
 </div> 
 <p align="center"> (Open for Hiring)</p>
 
