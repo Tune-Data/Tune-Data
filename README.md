@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/Tune-Data/Tune-Data/blob/main/images/header.png" alt="header"/>
 </div> 
-<p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Обо мне</h2>
 <p align="center">
