@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Tune-Data/Tune-Data/main/images/header.png" alt="header"/>
-</div>
+  <img src="https://github.com/Tune-Data/images/header.png" alt="header"/>
+</div> 
 <p align="center"> (Open for Hiring)</p>
 
 <h3 align="left">Languages and Tools:</h3>
