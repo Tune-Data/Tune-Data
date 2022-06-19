@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-_backgroundColor: blue
+<!-- _backgroundColor: blue -->
 
 
 <h3 align="left">Languages and Tools:</h3>
