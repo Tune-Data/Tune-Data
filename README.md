@@ -5,11 +5,7 @@
 <p align="left">
 </p>
 
-<title>HTML, фон, текст, цвет</title>
-</head>
-<body>
-<h4>HTML Фон текста оранжевый</h4>
-<p>Цвет HTML текста белый, фон красный</p>
+_backgroundColor: blue
 
 
 <h3 align="left">Languages and Tools:</h3>
