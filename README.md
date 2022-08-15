@@ -22,27 +22,32 @@
 <tr>
   <th>Название проекта</th>
   <th>Описание</th>
+  <th>Используемые библиотеки</th>
 </tr> 
 
   
 <tr>
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/credit.ipynb">Исследование надёжности заёмщиков</a></td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
+  <td>Pandas</td>
 </tr>
   
 <tr>
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/houses.ipynb">Исследование объявлений о продаже квартир</a></td>
   <td>В моем распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости</td>
+  <td>Pandas, Matplotlib</td>
 </tr>
 
 <tr>
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/tariff.ipynb">Определение перспективного тарифа для телеком компании</a></td>
   <td>Клиентам предлагают два тарифных плана. Мне предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет</td>
+  <td>Pandas, Matplotlib, NumPy, SciPy</td>
 </tr>
 
 <tr>
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/game.ipynb">Прогноз продаж в интернет-магазине</a></td>
   <td>На основании доступных данных о продажи игр мне нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании</td>
+  <td>Pandas, Matplotlib, NumPy, SciPy</td>
 </tr>
 
 </table>
@@ -55,19 +60,23 @@
 <tr>
   <th>Название проекта</th>
   <th>Описание</th>
+  <th>Используемые библиотеки</th>
 </tr> 
   
 <tr>
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/find_location_for_well.ipynb">Прогнозирование прибыли от нефтяных скважин</a></td>
   <td>Нужно решить, где бурить новую нефтяную скважину для получения наибольшей прибыли</td>
+  <td>Pandas, NumPy, SciPy, Scikit-learn</td>
 </tr>
   
 <tr>
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/lost_clients.ipynb">Прогнозирование оттока клиентов банка</a></td>
   <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
+  <td>Pandas, Matplotlib, NumPy, SciPy, Scikit-learn</td>
 </tr>
 
 <tr>
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/gold.ipynb">Предсказание коэффициента восстановления золота из золотосодержащей руды</a></td>
   <td>Необходимо подготовить прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды</td>
+  <td>Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn</td>
 </tr>
