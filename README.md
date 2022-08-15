@@ -83,5 +83,10 @@
   
   <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/verified_numerical_methods.ipynb">Определение стоимости автомобилей</a></td>
   <td>Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. Нужно построить модель для определения текущей рыночной стоимости автомобиля. Прогноз делается моделями мышинного обучения в том числе градиентного бустинга</td>
-  <td>Pandas, Matplotlib, NumPy, CatBoost, LightGBM</td>
+  <td>Pandas, Matplotlib, NumPy, Scikit-learn, CatBoost, LightGBM</td>
+</tr>
+
+  <td><a href = "https://github.com/Tune-Data/practicum_project/blob/main/taxi.ipynb">Прогнозирование заказов такси</a></td>
+  <td>Компания собрала исторические данные о заказах такси в аэропортах. Нужно спрогнозировать количество заказов такси на следующий час чтобы привлекать больше водителей в период пиковой нагрузки.</td>
+  <td>Pandas, Matplotlib, Scikit-learn, CatBoost, LightGBM</td>
 </tr>
