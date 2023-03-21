@@ -4,16 +4,17 @@
 
 <h2 align="center"> 👨‍💻 Обо мне</h2>
 <p align="center">
-  <samp>Стремлюсь построить карьеру в IT. Учусь в Яндекс Практикуме по направлению "Специалист по Data Science". За время обучения выполнял задания по предварительной обработке данных, статистическому и исследовательскому анализу данных. Обучал модели машинного обучения и анализировал результаты различными метриками. Продолжаю обучение и параллельно изучаю язык программирования Python, работу с базами данных SQL, так же Bash, Git.
+  <samp>Выполняю анализ данных с помощью языка программирования Python. Закончил курс Яндекс Практикума по направлению "Специалист по Data Science".
+  Получаю данные с посредством PostgreSQL. Выполняю предварительную обработку данных, статистический и исследовательский анализ. Прогноз осуществляю на основании исторических данных с помощью классических моделей машинного обучения и алгоритмов оптимизации градиентным спуском. Анализирую результаты различными метриками и делаю выводы для дальнейшего принятия решения заказчиком. Результаты оформляю в Jupyter Notebook.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Tune-Data" alt="https://github.com/Tune-Data" />
 </p>
 
-<h3 align="center">  🔭 Я использую:</h3>
+<h3 align="center">  🔭 Стек основных библиотек:</h3>
 <p align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<h2  align="center">💻 Часть выполненных проектов ⬇️ </h2>
+<h2  align="center">💻 Примеры мох работ ⬇️ </h2>
 
 ## Аналитика:
 <details open>
